@@ -1,2 +1,4 @@
 # Scripts
-Misc. bash scripts.
+Miscellaneous bash scripts.
+
+Error in VIM (SyncTeX Error : No file?)
