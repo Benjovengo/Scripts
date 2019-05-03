@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+
+# If already running, end this and run new instance.
+pkill -f "entr compiler" && exit
+echo "$1" | entr compiler "$1"
